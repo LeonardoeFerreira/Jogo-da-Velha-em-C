@@ -61,7 +61,7 @@
              break;
          }
 
-         if (jogadas==9) {                                            /
+         if (jogadas==9) {                                            
              printf ("PARTIDA EMPATADA");
              break;
          }
